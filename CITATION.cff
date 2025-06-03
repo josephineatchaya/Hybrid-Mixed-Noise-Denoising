@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following manuscript."
+title: "Hybrid Denoising Framework for Remote Sensing Images: Integrating Spatial Filtering and Deep Learning for Mixed Noise and Shadow Removal"
+authors:
+  - authors:
+  - given-names: Josephine Atchaya
+    family-names: A
+  - given-names: Anitha
+    family-names: J
+date-released: 2025-06-01
+version: "1.0"
+repository-code: https://github.com/josephineatchaya/Hybrid-Mixed-Noise-Denoising.git
+license: MIT
+keywords:
+  - remote sensing
+  - denoising
+  - adaptive optimization
+  - deep learning
+  - mixed noise
+  - CLAHE
+  - MDBUTMF
+  - Gaussian curvature filter
+  - DnCNN
+  - AMOA
