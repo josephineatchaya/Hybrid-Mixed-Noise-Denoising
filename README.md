@@ -74,7 +74,18 @@ The denoised images and intermediate results will be saved to `output_dir`. Metr
 - **MSE**: Mean Squared Error
 - **LPIPS**: Learned Perceptual Image Patch Similarity
 
----
+## 📁 Sample Output Images
+
+A set of representative results is included in the `sample_images/` folder. These outputs illustrate the effectiveness of the proposed hybrid denoising framework across various remote sensing datasets.
+
+### Included Samples:
+- `Denosied output of Landsat_image.png`
+- `Denosied output of UCM_dataset.png`
+- `Denosied output of WHU-RS19_dataset.png`
+- `shadow_bright area_enhancement.png`
+
+These demonstrate the improvements achieved through CLAHE, MDBUTMF, GCF, DnCNN, and AMOA-based tuning — visually supporting the PSNR, SSIM, GMSD, MSE, and LPIPS scores reported in the paper.
+
 
 ##  Citation
 
