@@ -1,0 +1,11 @@
+numpy
+opencv-python
+scikit-image
+tensorflow>=2.8
+matplotlib
+tqdm
+numba
+scikit-learn
+lpips
+torch
+torchvision
