@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the following manuscript."
 title: "Hybrid Denoising Framework for Remote Sensing Images: Integrating Spatial Filtering and Deep Learning for Mixed Noise and Shadow Removal"
 authors:
-  - authors:
   - given-names: Josephine Atchaya
     family-names: A
   - given-names: Anitha
