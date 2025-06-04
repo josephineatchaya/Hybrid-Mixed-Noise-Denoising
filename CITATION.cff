@@ -6,8 +6,13 @@ authors:
     family-names: A
   - given-names: Anitha
     family-names: J
-date-released: 2025-06-01
+  - given-names: Stoian
+    family-names: Gaberiel 
+  - given-names: Danciulescu
+    family-names: Daniela
+date-released: 2025-06-04
 version: "1.0"
+doi: 10.5281/zenodo.15589594
 repository-code: https://github.com/josephineatchaya/Hybrid-Mixed-Noise-Denoising.git
 license: MIT
 keywords:
