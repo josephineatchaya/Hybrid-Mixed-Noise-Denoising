@@ -18,12 +18,9 @@ This hybrid framework removes **mixed noise** (Salt-and-Pepper + White Gaussian 
 
 The performance is evaluated using PSNR, SSIM, GMSD, MSE, and LPIPS metrics.
 
----
-
 ## Architecture
 
 [Hybrid Denoising Block Diagram](block_diagram.png)
-
 
 ## Files
 
@@ -65,7 +62,6 @@ python main.py
 
 The denoised images and intermediate results will be saved to `output_dir`. Metrics will be printed and averaged across all samples.
 
-
 ## Metrics Evaluated
 
 - **PSNR**: Peak Signal-to-Noise Ratio
@@ -76,7 +72,7 @@ The denoised images and intermediate results will be saved to `output_dir`. Metr
 
 ## 📁 Sample Output Images
 
-A set of representative results is included in the `sample_images/` folder. These outputs illustrate the effectiveness of the proposed hybrid denoising framework across various remote sensing datasets.
+A set of representative results is included in the `sample images` folder. These outputs illustrate the effectiveness of the proposed hybrid denoising framework across various remote sensing datasets.
 
 ### Included Samples:
 - `Denosied output of Landsat_image.png`
