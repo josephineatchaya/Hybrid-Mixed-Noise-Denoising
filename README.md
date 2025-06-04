@@ -91,3 +91,9 @@ These demonstrate the improvements achieved through CLAHE, MDBUTMF, GCF, DnCNN, 
 ## License
 
 This project is licensed under the MIT License.
+
+# Hybrid Denoising Framework for Remote Sensing Images
+
+[![DOI](https://zenodo.org/badge/994914378.svg)](https://doi.org/10.5281/zenodo.15589594)
+
+This repository contains the official implementation of the manuscript.
